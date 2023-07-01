@@ -13,11 +13,11 @@
     font-family: "budaeJjigae";
     font-weight: 500;
     font-style: normal;
-    src: url("https://cdn.jsdelivr.net/gh/websfont/budaeJjigae/budaeJjigae-Midium.eot");
-    src: url("https://cdn.jsdelivr.net/gh/websfont/budaeJjigae/budaeJjigae-Midium.eot?#iefix") format("embedded-opentype"),
-         url("https://cdn.jsdelivr.net/gh/websfont/budaeJjigae/budaeJjigae-Midium.woff2") format("woff2"),
-         url("https://cdn.jsdelivr.net/gh/websfont/budaeJjigae/budaeJjigae-Midium.woff") format("woff"),
-         url("https://cdn.jsdelivr.net/gh/websfont/budaeJjigae/budaeJjigae-Midium.ttf") format("truetype");
+    src: url("https://cdn.jsdelivr.net/gh/websfont/budaeJjigae/budaeJjigae-Medium.eot");
+    src: url("https://cdn.jsdelivr.net/gh/websfont/budaeJjigae/budaeJjigae-Medium.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/websfont/budaeJjigae/budaeJjigae-Medium.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/websfont/budaeJjigae/budaeJjigae-Medium.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/websfont/budaeJjigae/budaeJjigae-Medium.ttf") format("truetype");
     font-display: swap;
 } 
 @font-face {
